@@ -1,0 +1,1 @@
+ It's a straightforward web application built with Express.js and MySQL. Users can input employee details, which are stored in a MySQL database upon submission. The app then displays these details in a table on the home page. Users also have the option to delete specific employee records. There's a basic authentication mechanism in place, but it might need a bit of debugging.
